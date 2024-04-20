@@ -1,0 +1,10 @@
+awk.sh
+sed.sh
+tar.sh
+awk.sh
+sed.sh
+tar.sh
+awk_out.txt
+file1.txt
+file2.txt
+sed_out.txt

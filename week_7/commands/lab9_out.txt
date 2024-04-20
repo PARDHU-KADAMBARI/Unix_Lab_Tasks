@@ -1,0 +1,1001 @@
+ 
+ more -d sample.txt
+ 
+more -f sample.txt
+ 
+more -u sample.txt
+ 
+more -s sample.txt
+ 
+more +5 sample.txt
+ 
+mmore +/Lorem sample.txt
+ 
+     1	Australia
+     2	Asia
+     3	Africa
+     4	Antarctica
+     5	Europe
+     6	North America
+     7	South America
+
+     1	Australia
+     2	Asia
+     3	Africa
+     4	Antarctica
+     5	Europe
+     6	North America
+     7	South America
+
+     1	Australia
+     2	Asia
+     3	Africa
+     4	Antarctica
+     5	Europe
+     6	North America
+     7	South America
+
+     1	Australia
+     4	Asia
+     7	Africa
+    10	Antarctica
+    13	Europe
+    16	North America
+    19	South America
+
+     4	Australia
+     5	Asia
+     6	Africa
+     7	Antarctica
+     8	Europe
+     9	North America
+    10	South America
+
+     1...Australia
+     2...Asia
+     3...Africa
+     4...Antarctica
+     5...Europe
+     6...North America
+     7...South America
+
+ 1	Australia
+ 2	Asia
+ 3	Africa
+ 4	Antarctica
+ 5	Europe
+ 6	North America
+ 7	South America
+   1	Australia
+   2	Asia
+   3	Africa
+   4	Antarctica
+   5	Europe
+   6	North America
+   7	South America
+     1	Australia
+     2	Asia
+     3	Africa
+     4	Antarctica
+     5	Europe
+     6	North America
+     7	South America
+
+1     	Australia
+2     	Asia
+3     	Africa
+4     	Antarctica
+5     	Europe
+6     	North America
+7     	South America
+     1	Australia
+     2	Asia
+     3	Africa
+     4	Antarctica
+     5	Europe
+     6	North America
+     7	South America
+000001	Australia
+000002	Asia
+000003	Africa
+000004	Antarctica
+000005	Europe
+000006	North America
+000007	South America
+
+
+
+
+
+
+
+
+
+Australia
+Asia
+Africa
+Antarctica
+Europe
+North America
+South America
+
+
+
+2024-04-04 18:02                    file1.txt                     Page 1
+
+
+Australia		Antarctica		North America
+Asia			Europe			South America
+Africa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Australia
+Asia
+Africa
+Antarctica
+Europe
+North America
+South America
+
+
+
+2024-04-04 18:02                    file1.txt                     Page 1
+
+
+Australia
+
+Asia
+
+Africa
+
+Antarctica
+
+Europe
+
+North America
+
+South America
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2024-04-04 18:02                    file1.txt                     Page 1
+
+
+    1	Australia
+    2	Asia
+    3	Africa
+    4	Antarctica
+    5	Europe
+    6	North America
+    7	South America
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2024-04-04 18:02                      header                      Page 1
+
+
+Australia
+Asia
+Africa
+Antarctica
+Europe
+North America
+South America
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pr (GNU coreutils) 8.32
+Copyright (C) 2020 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Pete TerMaat and Roland Huebner.
+
+
+
+
+
+
+[!p[?3;4l[4l>[?69l
+c[!p[?3;4l[4l>[?69l
+xterm terminal emulator (X Window System)
+ncurses 6.4.20221231
+
+/dev/pty0
+tty (GNU coreutils) 8.32
+Copyright (C) 2020 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by David MacKenzie.
+
+MINGW64_NT-10.0-22631 PARDHU 3.4.10-87d57229.x86_64 2024-02-14 20:17 UTC x86_64 Msys
+
+MINGW64_NT-10.0-22631
+
+PARDHU
+
+3.4.10-87d57229.x86_64
+
+2024-02-14 20:17 UTC
+
+x86_64
+
+unknown
+
+unknown
+
+Msys
+ 7  9 68 file1.txt
+
+ 8 13 93 file2.txt
+
+  7   9  68 file1.txt
+  8  13  93 file2.txt
+ 15  22 161 total
+
+7 file1.txt
+
+  7 file1.txt
+  8 file2.txt
+ 15 total
+
+9 file1.txt
+
+  9 file1.txt
+ 13 file2.txt
+ 22 total
+
+68 file1.txt
+
+ 68 file1.txt
+ 93 file2.txt
+161 total
+
+68 file1.txt
+
+ 68 file1.txt
+ 93 file2.txt
+161 total
+
+13 file1.txt
+
+ 13 file1.txt
+ 15 file2.txt
+ 15 total
+
+
+
+
+NAME     LINE         TIME         COMMENT
+
+
+
+
+
+# users=0
+
+
+
+
+
+Apple
+Bat
+Cat
+Dog
+Eagle
+Fan
+Gun
+Hut
+Ice - Cream
+Jug
+King
+Lion
+Man
+ 
+ more -d sample.txt
+ 
+more -f sample.txt
+ 
+more -u sample.txt
+ 
+more -s sample.txt
+ 
+more +5 sample.txt
+ 
+mmore +/Lorem sample.txt
+ 
+     1	Australia
+     2	Asia
+     3	Africa
+     4	Antarctica
+     5	Europe
+     6	North America
+     7	South America
+
+     1	Australia
+     2	Asia
+     3	Africa
+     4	Antarctica
+     5	Europe
+     6	North America
+     7	South America
+
+     1	Australia
+     2	Asia
+     3	Africa
+     4	Antarctica
+     5	Europe
+     6	North America
+     7	South America
+
+     1	Australia
+     4	Asia
+     7	Africa
+    10	Antarctica
+    13	Europe
+    16	North America
+    19	South America
+
+     4	Australia
+     5	Asia
+     6	Africa
+     7	Antarctica
+     8	Europe
+     9	North America
+    10	South America
+
+     1...Australia
+     2...Asia
+     3...Africa
+     4...Antarctica
+     5...Europe
+     6...North America
+     7...South America
+
+ 1	Australia
+ 2	Asia
+ 3	Africa
+ 4	Antarctica
+ 5	Europe
+ 6	North America
+ 7	South America
+   1	Australia
+   2	Asia
+   3	Africa
+   4	Antarctica
+   5	Europe
+   6	North America
+   7	South America
+     1	Australia
+     2	Asia
+     3	Africa
+     4	Antarctica
+     5	Europe
+     6	North America
+     7	South America
+
+1     	Australia
+2     	Asia
+3     	Africa
+4     	Antarctica
+5     	Europe
+6     	North America
+7     	South America
+     1	Australia
+     2	Asia
+     3	Africa
+     4	Antarctica
+     5	Europe
+     6	North America
+     7	South America
+000001	Australia
+000002	Asia
+000003	Africa
+000004	Antarctica
+000005	Europe
+000006	North America
+000007	South America
+
+
+
+
+
+
+
+
+
+Australia
+Asia
+Africa
+Antarctica
+Europe
+North America
+South America
+
+
+
+2024-04-04 18:02                    file1.txt                     Page 1
+
+
+Australia		Antarctica		North America
+Asia			Europe			South America
+Africa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Australia
+Asia
+Africa
+Antarctica
+Europe
+North America
+South America
+
+
+
+2024-04-04 18:02                    file1.txt                     Page 1
+
+
+Australia
+
+Asia
+
+Africa
+
+Antarctica
+
+Europe
+
+North America
+
+South America
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2024-04-04 18:02                    file1.txt                     Page 1
+
+
+    1	Australia
+    2	Asia
+    3	Africa
+    4	Antarctica
+    5	Europe
+    6	North America
+    7	South America
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2024-04-04 18:02                      header                      Page 1
+
+
+Australia
+Asia
+Africa
+Antarctica
+Europe
+North America
+South America
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pr (GNU coreutils) 8.32
+Copyright (C) 2020 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Pete TerMaat and Roland Huebner.
+
+
+
+
+
+
+[!p[?3;4l[4l>[?69l
+c[!p[?3;4l[4l>[?69l
+xterm terminal emulator (X Window System)
+ncurses 6.4.20221231
+
+/dev/pty0
+tty (GNU coreutils) 8.32
+Copyright (C) 2020 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by David MacKenzie.
+
+MINGW64_NT-10.0-22631 PARDHU 3.4.10-87d57229.x86_64 2024-02-14 20:17 UTC x86_64 Msys
+
+MINGW64_NT-10.0-22631
+
+PARDHU
+
+3.4.10-87d57229.x86_64
+
+2024-02-14 20:17 UTC
+
+x86_64
+
+unknown
+
+unknown
+
+Msys
+ 7  9 68 file1.txt
+
+ 8 13 93 file2.txt
+
+  7   9  68 file1.txt
+  8  13  93 file2.txt
+ 15  22 161 total
+
+7 file1.txt
+
+  7 file1.txt
+  8 file2.txt
+ 15 total
+
+9 file1.txt
+
+  9 file1.txt
+ 13 file2.txt
+ 22 total
+
+68 file1.txt
+
+ 68 file1.txt
+ 93 file2.txt
+161 total
+
+68 file1.txt
+
+ 68 file1.txt
+ 93 file2.txt
+161 total
+
+13 file1.txt
+
+ 13 file1.txt
+ 15 file2.txt
+ 15 total
+
+
+
+
+NAME     LINE         TIME         COMMENT
+
+
+
+
+
+# users=0
+
+
+
+
+
